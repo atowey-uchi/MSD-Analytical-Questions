@@ -24,7 +24,7 @@ library(systemfonts)
 ```
 
 ```{r}
-data <- read.table("~/MSD Analytic Questions/MER_Structured_TRAINING_Datasets_PSNU_IM_FY59-62_20240816_v1_1.txt", header = TRUE, sep = "\t")
+data <- read.table("MER_Structured_TRAINING_Datasets_PSNU_IM_FY59-62_20240816_v1_1.txt", header = TRUE, sep = "\t")
 ```
 
 ## 1: Which partner should we focus on with lower target achievement in test positivity for the year?
